@@ -1,3 +1,4 @@
+import os
 from serpapi import GoogleSearch
 from fastapi import HTTPException
 from models import CoffeeChatRequest
