@@ -1,0 +1,168 @@
+{
+  "raw_cv": {
+    "profile": {
+      "name_kr": "아노",
+      "name_en": "BIEGDEMBEREL ANU",
+      "title": "Product Manager / Product Engineer",
+      "summary": "사용자 문제 정의부터 UX 설계, MVP 기획 및 테스팅까지 빠르게 실행하며, 데이터와 속도를 기반으로 제품 전 과정을 설계·구현하는 프로덕트 엔지니어입니다.",
+      "contact": {
+        "phone": "010-3258-7720",
+        "email": "anu.bn@yahoo.com",
+        "website": "https://anubilegdemberel.com",
+        "github": "https://github.com/nukktae"
+      }
+    },
+    "experience": [
+      {
+        "role": "UI/UX Designer & Frontend Developer (Contract)",
+        "company": "Bestia Group LLC",
+        "location": "Manhattan Beach, CA, USA",
+        "period": {
+          "start": "2025-01",
+          "end": "2025-08"
+        },
+        "highlights": [
+          "미국 부동산 에이전트 대상 초기 서비스의 UX 문제 정의 및 개선",
+          "에이전트 인터뷰·피드백 기반 업무 흐름 중심 UX 설계",
+          "Bestia LeadBoard Lite 공개 데모용 Figma → React 프론트엔드 구현",
+          "40대 이상 에이전트 접근성 개선으로 연간 약 50시간 업무 시간 절감",
+          "사전 가입자 300명 이상 확보에 기여"
+        ]
+      },
+      {
+        "role": "UI/UX Designer Intern",
+        "company": "Handiers Inc.",
+        "location": "Torrance, CA, USA",
+        "period": {
+          "start": "2025-03",
+          "end": "2025-09"
+        },
+        "highlights": [
+          "모바일 앱 2종 및 마케팅 웹사이트 UX 전반 리디자인",
+          "채팅·예약·견적 요청 중심 핵심 사용자 여정 개선",
+          "Figma 기반 반응형 UI 설계 후 Flutter 구현",
+          "Jira 기반 요구사항·우선순위 관리 및 로드맵 정리",
+          "카메라 입력, AI 견적 기능 협업으로 안정적인 제품 출시"
+        ]
+      }
+    ],
+    "projects_and_activities": [
+      {
+        "role": "Product Engineer",
+        "project": "신한장학재단 실과제 프로젝트",
+        "location": "Seoul, Korea",
+        "period": {
+          "start": "2026-01",
+          "end": "Present"
+        },
+        "details": [
+          "월별 활동 보고 프로세스 개선을 위한 실과제 기반 제품 기획",
+          "웹 크롤링·2차 자료 조사·데이터 시각화 기반 문제 정의",
+          "학생용 기능 및 관리자용 간이 CRM 대시보드 기획",
+          "PWA 형태 구현 및 반복 개선으로 백엔드 처리 시간 약 3시간 단축"
+        ]
+      },
+      {
+        "role": "UX Engineer & Hardware Engineer",
+        "project": "COCO AI Educator Robot",
+        "location": "Seoul, Korea",
+        "period": {
+          "start": "2025-11",
+          "end": "Present"
+        },
+        "details": [
+          "ESP32 기반 AI 컴패니언 로봇 임베디드 시스템 설계",
+          "I2S 실시간 음성 입출력 + 클라우드 AI 연동",
+          "9종 이상 하드웨어 컴포넌트 통합 및 Wi-Fi 안정성 99.6% 달성",
+          "FreeRTOS 기반 태스크 분리 구조 및 72시간 스트레스 테스트",
+          "감정 인지형 인터랙션 UX 설계"
+        ]
+      },
+      {
+        "role": "UI/UX Designer & Full Stack Developer",
+        "project": "Friendly",
+        "location": "Seoul, Korea",
+        "period": {
+          "start": "2025-09",
+          "end": "2025-12"
+        },
+        "details": [
+          "다전공·외국인 학생 수강 계획 혼란 문제 정의",
+          "80명 이상 학생 인터뷰 및 설문 분석",
+          "SWOT 기반 제품 전략 수립 및 MVP 설계",
+          "약 124개 API 연동 및 AI 기능 고도화",
+          "초기 사용자 120명 확보"
+        ]
+      },
+      {
+        "role": "UX Engineer & Frontend Developer",
+        "project": "Overseas Research (IoT UX)",
+        "location": "Irvine, CA, USA",
+        "period": {
+          "start": "2024-09",
+          "end": "2024-12"
+        },
+        "details": [
+          "IoT 모바일 서비스 연결 안정성 문제 정의",
+          "BLE 실패·지연 예외 UX 설계",
+          "FCM 알림 실험으로 전달률 95% 개선",
+          "Flutter MVVM 기반 A/B 테스트 구조 설계"
+        ]
+      },
+      {
+        "role": "Backend Developer & System Architect (AWS)",
+        "project": "Overseas Research (Content Moderation)",
+        "location": "Irvine, CA, USA",
+        "period": {
+          "start": "2024-11",
+          "end": "2025-01"
+        },
+        "details": [
+          "AWS Kinesis·Rekognition·Lambda 기반 실시간 모더레이션 시스템",
+          "분류 정확도 약 95%, 오탐률 20% 감소",
+          "대형 스트리밍 플랫폼 사례 분석",
+          "AWS 기술 발표를 통한 비용 최적화 아키텍처 공유"
+        ]
+      }
+    ],
+    "education": {
+      "university": "Kookmin University",
+      "major": "Software Engineering",
+      "double_major": "PR & Marketing",
+      "period": {
+        "start": "2023-03",
+        "end": "2027-02"
+      }
+    },
+    "languages": [
+      { "language": "Mongolian", "level": "Native" },
+      { "language": "English", "level": "C2" },
+      { "language": "Korean", "level": "TOPIK 6" },
+      { "language": "Chinese", "level": "HSK 5" }
+    ],
+    "skills": {
+      "design": ["Figma", "Framer", "Canva"],
+      "frontend": ["HTML5", "CSS3", "React", "Tailwind", "Vue", "Angular", "Flutter", "TypeScript", "Three.js"],
+      "backend": ["Node.js", "Express", "Django", "Spring Boot", "Flask", "REST APIs"],
+      "database": ["PostgreSQL", "MySQL", "DynamoDB", "Firebase"],
+      "infra_ai": ["AWS", "Docker", "TensorFlow.js", "OpenAI"],
+      "tools": ["Jira", "Notion", "GitHub", "Amplitude", "Heap", "Looker"],
+      "data": ["Python", "Data Visualization"]
+    },
+    "extracurricular": [
+      {
+        "activity": "PBL Scholarship Researcher",
+        "period": "2024-09 ~ 2025-02"
+      },
+      {
+        "activity": "Reporter, Kookmin Review",
+        "period": "2024-02 ~ 2024-09"
+      },
+      {
+        "activity": "International Student Council, Kookmin University",
+        "period": "2023-06 ~ 2024-09"
+      }
+    ]
+  },
+  "job_description": "생성형 AI를 활용한 이미지 및 영상 콘텐츠 제작 역량과 사용자 중심의 UX 설계 능력을 갖춘 프로덕트 엔지니어를 찾습니다. 데이터 기반의 문제 정의와 빠른 MVP 구현 경험이 있는 분을 선호합니다."
+}
